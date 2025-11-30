@@ -3,7 +3,7 @@ import functions_framework
 @functions_framework.http
 def hello_http(request):
     """
-    Returns a stylized HTML page for GCP Cloud Function instead of plain text return through CURL
+    Week 6 HTML page for GCP Cloud Function instead of plain text return through CURL
     """
     cloud_run_logo_url = "https://cdn.prod.website-files.com/681e366f54a6e3ce87159ca4/6883d202716f923df4558b3d_google-cloud-run.webp"
     
